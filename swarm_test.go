@@ -15,8 +15,8 @@ import (
 	"github.com/libp2p/go-libp2p-core/peerstore"
 	"github.com/libp2p/go-libp2p-core/test"
 
-	. "github.com/libp2p/go-libp2p-swarm"
-	. "github.com/libp2p/go-libp2p-swarm/testing"
+	. "github.com/Jorropo/go-libp2p-swarm"
+	. "github.com/Jorropo/go-libp2p-swarm/testing"
 
 	logging "github.com/ipfs/go-log"
 	ma "github.com/multiformats/go-multiaddr"
