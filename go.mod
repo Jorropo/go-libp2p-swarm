@@ -1,4 +1,4 @@
-module github.com/libp2p/go-libp2p-swarm
+module github.com/Jorropo/go-libp2p-swarm
 
 go 1.12
 
