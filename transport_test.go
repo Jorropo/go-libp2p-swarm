@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	swarmt "github.com/libp2p/go-libp2p-swarm/testing"
+	swarmt "github.com/Jorropo/go-libp2p-swarm/testing"
 
 	"github.com/libp2p/go-libp2p-core/peer"
 	"github.com/libp2p/go-libp2p-core/transport"

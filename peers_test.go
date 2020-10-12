@@ -10,7 +10,7 @@ import (
 
 	ma "github.com/multiformats/go-multiaddr"
 
-	. "github.com/libp2p/go-libp2p-swarm"
+	. "github.com/Jorropo/go-libp2p-swarm"
 )
 
 func TestPeers(t *testing.T) {

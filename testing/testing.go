@@ -15,7 +15,7 @@ import (
 
 	csms "github.com/libp2p/go-conn-security-multistream"
 	pstoremem "github.com/libp2p/go-libp2p-peerstore/pstoremem"
-	swarm "github.com/libp2p/go-libp2p-swarm"
+	swarm "github.com/Jorropo/go-libp2p-swarm"
 	"github.com/libp2p/go-libp2p-testing/net"
 	tptu "github.com/libp2p/go-libp2p-transport-upgrader"
 	yamux "github.com/libp2p/go-libp2p-yamux"
