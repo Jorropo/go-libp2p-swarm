@@ -13,14 +13,14 @@ import (
 	"github.com/libp2p/go-libp2p-core/peerstore"
 	"github.com/libp2p/go-libp2p-core/transport"
 
+	swarmt "github.com/Jorropo/go-libp2p-swarm/testing"
 	testutil "github.com/libp2p/go-libp2p-core/test"
-	swarmt "github.com/libp2p/go-libp2p-swarm/testing"
 	"github.com/libp2p/go-libp2p-testing/ci"
 
 	ma "github.com/multiformats/go-multiaddr"
 	manet "github.com/multiformats/go-multiaddr/net"
 
-	. "github.com/libp2p/go-libp2p-swarm"
+	. "github.com/Jorropo/go-libp2p-swarm"
 )
 
 func init() {
