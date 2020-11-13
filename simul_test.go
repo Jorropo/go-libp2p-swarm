@@ -12,8 +12,8 @@ import (
 
 	ma "github.com/multiformats/go-multiaddr"
 
-	. "github.com/Jorropo/go-libp2p-swarm"
-	swarmt "github.com/Jorropo/go-libp2p-swarm/testing"
+	. "github.com/libp2p/go-libp2p-swarm"
+	swarmt "github.com/libp2p/go-libp2p-swarm/testing"
 	"github.com/libp2p/go-libp2p-testing/ci"
 )
 

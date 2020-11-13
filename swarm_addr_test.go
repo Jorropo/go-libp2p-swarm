@@ -9,7 +9,7 @@ import (
 
 	ma "github.com/multiformats/go-multiaddr"
 
-	swarmt "github.com/Jorropo/go-libp2p-swarm/testing"
+	swarmt "github.com/libp2p/go-libp2p-swarm/testing"
 )
 
 func TestDialBadAddrs(t *testing.T) {

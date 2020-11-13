@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/Jorropo/go-libp2p-swarm"
+	. "github.com/libp2p/go-libp2p-swarm"
 
 	"github.com/libp2p/go-libp2p-core/peer"
 )
