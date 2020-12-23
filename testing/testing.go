@@ -13,9 +13,9 @@ import (
 	"github.com/libp2p/go-libp2p-core/peerstore"
 	"github.com/libp2p/go-libp2p-core/sec/insecure"
 
-	swarm "github.com/libp2p/go-libp2p-swarm"
 	csms "github.com/libp2p/go-conn-security-multistream"
 	pstoremem "github.com/libp2p/go-libp2p-peerstore/pstoremem"
+	swarm "github.com/libp2p/go-libp2p-swarm"
 	"github.com/libp2p/go-libp2p-testing/net"
 	tptu "github.com/libp2p/go-libp2p-transport-upgrader"
 	yamux "github.com/libp2p/go-libp2p-yamux"
